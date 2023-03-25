@@ -2,6 +2,11 @@
 @import 'variables.scss';
 @import 'mixings.scss';
 
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 2s;
+  }
+
 * {
     margin: 0;
     padding: 0;
